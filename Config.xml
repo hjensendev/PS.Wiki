@@ -1,0 +1,14 @@
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <LogFolder>C:\Operation\PS.Wiki</LogFolder>
+  <vSphereServer>REPLACE-WITH-VSPEHRE-SERVER-FQDN</vSphereServer>
+  <vSphereDataCenter>REPLACE-WITH-VSPEHRE-DATACETER-NAME</vSphereDataCenter>
+  <VsphereAccount>EPLACE-WITH-VSPHERE-USER-ACCOUNT</VsphereAccount>
+  <WikiAccount>REPLACE-WITH-CONFLUENCE-USER-ACCOUNT</WikiAccount>
+  <ConfluenceServerBaseURI>https://REPLACE-WITH-CONFLUENCE-SERVER</ConfluenceServerBaseURI>
+  <ConfluenceServerTemplatePageId>65641</ConfluenceServerTemplatePageId>
+  <ConfluenceSpaceKey>IT</ConfluenceSpaceKey>
+  <ConfluenceServerParentPageId>65628</ConfluenceServerParentPageId>
+</Settings>
+
+
+
