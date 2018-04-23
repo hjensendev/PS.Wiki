@@ -6,7 +6,7 @@ A project for creating Confluence pages with information from vSphere.
 
 2. Install requirements **VMware.PowerCLI** and **ConfluencePS**
 
-3. Create a the following pages in Confluence
+3. Create the following pages in Confluence
 * A server template page
 * A placeholder parent page
 
