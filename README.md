@@ -1,4 +1,4 @@
-# Wiki.PS
+# PS.Wiki
 A project for creating Confluence pages with information from vSphere.
 
 # Getting Started
